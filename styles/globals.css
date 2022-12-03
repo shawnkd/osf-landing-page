@@ -20,7 +20,9 @@ a {
     color-scheme: dark;
   }
   body {
-    color: white;
-    background: black;
+    color: black;
+    background: white;
+    background-image: url('/bs5.gif');
+    background-size: cover;
   }
 }
