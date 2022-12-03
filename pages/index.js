@@ -41,7 +41,7 @@ export default function Home() {
         
 
         <div className={styles.container}>
-        <video src="osf-teaser.mov" className={styles.title} autoPlay loop muted width={420}></video>
+        <video src="osf-teaser.mov" className={styles.title} autoPlay loop controls width={420}></video>
           {/* <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>Documentation &rarr;</h2>
             <p>Find in-depth information about Next.js features and API.</p>
